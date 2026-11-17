@@ -1,4 +1,9 @@
 # Akshitha's Personal Portfolio
+## 🌐 Live Website
+
+**Visit my portfolio:** https://iimbbbadbemidtermwebsite.vercel.app/
+
+**GitHub Repository:** https://github.com/KOTHAAKSHITHAGOUD/IIMB_BBA_DBE_midterm_website
 
 A personal portfolio website showcasing my academic journey, interests, projects, achievements, experience, and career aspirations in business, technology, and sports.
 
